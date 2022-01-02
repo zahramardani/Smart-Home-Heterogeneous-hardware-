@@ -1,1 +1,1 @@
-# MDE4IoT1
+# SmartHome(Heterogeneous hardware systems)
