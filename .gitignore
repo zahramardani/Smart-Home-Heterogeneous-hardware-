@@ -1,0 +1,5 @@
+# Local archive inspection
+.DS_Store
+Thumbs.db
+*~
+*.tmp
