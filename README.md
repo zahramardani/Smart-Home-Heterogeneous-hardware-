@@ -26,3 +26,22 @@ The repository currently distributes a design archive. It does not include a doc
 - [Forecasting API and SQL portfolio](https://github.com/zahramardani/river_prediction): runnable companion demonstrations.
 
 The original archive is retained at its existing path so historical references remain valid.
+
+
+<!-- BEGIN FOLDER GUIDE -->
+## Folder guide
+
+The original compressed smart-home design export and its project documentation.
+
+[Repository overview](README.md) · [All projects](https://github.com/zahramardani/ML2PP-Artifacts/blob/main/PROJECTS.md)
+
+### Contents
+
+| Item | What it is |
+|---|---|
+| [.gitignore](.gitignore) | Patterns excluding local caches, environments or generated outputs from new commits. |
+| [monitoringsystem.design.rar](monitoringsystem.design.rar) | The original compressed smart-home design export. |
+
+**Start here:** [.gitignore](.gitignore).
+
+<!-- END FOLDER GUIDE -->
