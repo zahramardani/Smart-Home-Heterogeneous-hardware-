@@ -36,6 +36,19 @@ Hardware platforms, communication protocols and deployment results should be est
 
 The repository currently distributes a design archive. It does not include a documented build procedure, a hardware bill of materials, or an independently runnable application. The archive format alone does not establish which editor or hardware is required.
 
+## Download the original design archive
+
+**[Download `monitoringsystem.design.rar`](https://github.com/zahramardani/Smart-Home-Heterogeneous-hardware-/raw/refs/heads/main/monitoringsystem.design.rar)** (approximately 4.88 KB).
+
+GitHub versions this RAR as an individual binary file. To review or version the models and other files inside it individually, first extract the archive and inspect its contents.
+
+1. Download the file using the direct link above.
+2. Extract it using an RAR-compatible utility (for example, Keka or The Unarchiver on macOS, or 7-Zip on Windows).
+3. Record the extracted file names and extensions to identify the design format and the original modelling environment. Do not assume a particular editor or hardware platform from the `.design` archive name alone.
+4. Once validated and cleared of secrets or third-party restricted content, add the useful extracted design files to a normal project folder, retaining the original archive for provenance.
+
+**Current verification boundary:** the RAR exists in the repository; its internal files, supported editor, and executable or deployment status have not yet been independently verified.
+
 ## Related work
 
 - [Temperature Monitoring System](https://github.com/zahramardani/Temperature-Monitoring-System): historical Eclipse/Xtext project material.
